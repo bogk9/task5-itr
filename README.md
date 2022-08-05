@@ -1,4 +1,4 @@
 # Description
 
-Task #5 for iTransition Intern Program. 
+Task #5
 
